@@ -3,7 +3,7 @@
 ## Tech Stack
  * D3.js
  * 百度地图
-  
+
 ## References
  * [GMapCatcher](https://code.google.com/p/gmapcatcher/wiki/User_Guide)
  * [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/examples/)
@@ -39,3 +39,4 @@
  * [百度地图离线API调用教程](http://jingyan.baidu.com/article/5bbb5a1b0dd76413eba17998.html)
  * [离线地图制作工具](http://www.cnblogs.com/liongis/archive/2012/04/27/2474194.html)
  * [百度地图离线api2.0](http://download.csdn.net/detail/z1721940401/7279355)
+ * [百度地图在线文档](http://lbsyun.baidu.com/index.php?title=jspopular)
