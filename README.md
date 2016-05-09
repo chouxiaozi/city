@@ -2,6 +2,7 @@
 
 ## Tech Stack
  * D3.js
+ * 百度地图
   
 ## References
  * [GMapCatcher](https://code.google.com/p/gmapcatcher/wiki/User_Guide)
@@ -20,7 +21,6 @@
  * [Drawing Maps with D3.js and Other Geographical Fun](http://www.maori.geek.nz/d3_js_geo_fun/)
  * [Driving from Thailand to the Netherlands – Datavis with d3.js](http://joostkiens.com/project/driving-from-thailand-to-the-netherlands-datavis-with-d3-js/)
  ![1](http://joostkiens.com/wp-content/uploads/2013/02/mtea_data_header-766x432.jpg)
- 
  * [Election site part 1: Basics with Knockout.js, Bootstrap and d3.js](http://www.smartjava.org/content/election-site-part-1-basics-knockoutjs-bootstrap-and-d3js)
  * [Easy Webpage Scraping with Python](http://oobrien.com/2010/04/)
  * [D3 map Styling tutorial III: Drawing animated paths](http://geoexamples.blogspot.nl/2014/01/d3-map-styling-tutorial-iii-drawing.html)
@@ -33,3 +33,8 @@
  * [GeoJSON](http://geojson.org/)
  * [Mapbox](https://www.mapbox.com/)
  * [开发清新、高效的拓扑图组件](http://demo.qunee.com/)
+ * [百度地图2.0离线版的制作](http://my.oschina.net/smzd/blog/548538)
+ * [百度地图离线API及地图数据下载工具-尝鲜篇](http://www.cnblogs.com/liongis/archive/2012/07/12/2588294.html)
+ * [百度地图离线API 2.0(含示例,可完全断网访问)](http://download.csdn.net/detail/leiyong0326/8425901)
+ * [百度地图离线API调用教程](http://jingyan.baidu.com/article/5bbb5a1b0dd76413eba17998.html)
+ * [离线地图制作工具](http://www.cnblogs.com/liongis/archive/2012/04/27/2474194.html)
